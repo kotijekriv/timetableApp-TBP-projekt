@@ -23,6 +23,6 @@
     <a href="https://www.youtube.com/watch?v=ngc9gnGgUdA&list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu">Poveznica</a> na MERN tečaj korišten pri izradi projekta.
   </li>
   <li>
-    <a href="">Poveznica</a> na PERN tečaj korišten pri izradi projekta.
+    <a href="https://youtu.be/ldYcgPKEZC8">Poveznica</a> na PERN tečaj korišten pri izradi projekta.
   </li>
 </ol>
