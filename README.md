@@ -2,7 +2,7 @@
 
 ## Upute za pripremu projekta
 <ol>
-  <li>Kreirati bazu podataka u PostgreSQL</li>
+  <li>Kreirati bazu podataka u PostgreSQL.</li>
   <li>Pokrenuti skriptu <code>database.sql</code> za kreiranje tablica, funkcija i okidača.</li>
   <li>U datoteku <code>db.js</code> dodati vlastite podatke za prijavu na bazu podataka.</li>
 </ol>
